@@ -1,0 +1,6 @@
+gradio
+pymupdf
+langchain
+openai
+python-dotenv
+gradio
